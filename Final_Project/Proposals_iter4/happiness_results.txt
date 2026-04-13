@@ -1,0 +1,58 @@
+HAPPINESS RESULTS
+==================================================
+
+Proposal file: proposals_1.csv
+Results file : results.csv
+Happiness with samples selected : 2.6667
+
+Proposal file: proposals_10.csv
+Results file : results.csv
+Happiness with samples selected : 4.0000
+
+Proposal file: proposals_11.csv
+Results file : results.csv
+Happiness with samples selected : 3.3333
+
+Proposal file: proposals_12.csv
+Results file : results.csv
+Happiness with samples selected : 2.6667
+
+Proposal file: proposals_13.csv
+Results file : results.csv
+Happiness with samples selected : 2.3333
+
+Proposal file: proposals_14.csv
+Results file : results.csv
+Happiness with samples selected : 3.6667
+
+Proposal file: proposals_2.csv
+Results file : results.csv
+Happiness with samples selected : 2.6667
+
+Proposal file: proposals_3.csv
+Results file : results.csv
+Happiness with samples selected : 2.3333
+
+Proposal file: proposals_4.csv
+Results file : results.csv
+Happiness with samples selected : 3.6667
+
+Proposal file: proposals_5.csv
+Results file : results.csv
+Happiness with samples selected : 4.0000
+
+Proposal file: proposals_6.csv
+Results file : results.csv
+Happiness with samples selected : 3.3333
+
+Proposal file: proposals_7.csv
+Results file : results.csv
+Happiness with samples selected : 2.6667
+
+Proposal file: proposals_8.csv
+Results file : results.csv
+Happiness with samples selected : 2.3333
+
+Proposal file: proposals_9.csv
+Results file : results.csv
+Happiness with samples selected : 3.6667
