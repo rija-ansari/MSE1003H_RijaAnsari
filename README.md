@@ -18,10 +18,12 @@ Implements a full ML pipeline on the Materials Project Database to predict or cl
 **Platform:** Opentron-2 color-mixing robot (RYB dyes)
 
 Designs and executes a structured design of experiments (DOE) using the Opentron-2 robotic platform, collecting 8-channel spectral response data for use in Assignments 3 and 4.
+
 ---
 
 ### Assignment 3 — Single-Objective Optimization
 Uses active learning to converge on a target 8-channel spectral response from the Opentron-2. 
+
 ---
 
 ### Assignment 4 — Multi-Objective Optimization & Inference
